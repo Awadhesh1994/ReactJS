@@ -8,7 +8,7 @@ const Home = () => (
             <center>
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2 text">
-                        <h1><strong>CashPositive</strong> <br /><br /></h1>
+                        <h1><strong>Awadhesh MailBox</strong> <br /><br /></h1>
                         <div class="description">
                             <p>
                                 The integrated B2B credit management engine<br />
