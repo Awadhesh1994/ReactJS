@@ -5,7 +5,7 @@ const YourPeople = () => (
   <div>
     <div className="panel panel-default">
       <div className="panel-body inbox-people">
-        <div className="dev-email-message-people"><img src="/img/logo.jpg" className="people-img" alt='cashpositive' role='presentation' />&nbsp;&nbsp;Cashpositive People</div>
+        <div className="dev-email-message-people"><img src="/img/logo.jpg" className="people-img" alt='awadhesh mailbox' role='presentation' />&nbsp;&nbsp;Awadhesh Friends</div>
         <hr />
         <ul>
           {
